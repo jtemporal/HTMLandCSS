@@ -4,4 +4,4 @@
 11. Adding images
 12. Click that image
 13. Images and links
-14. Congratulations!
+
