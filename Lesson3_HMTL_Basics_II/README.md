@@ -14,10 +14,10 @@ Module 1: Making Lists
 Module 2: Styling the font!
 
 7. [Making comments](Module2/ex7.html)
-8. [Font size]()
-9. [Font color]()
-10. [Font family]()
-11. [Recap]()
+8. [Font size](Module2/ex8.html)
+9. [Font color](Module2/ex9.html)
+10. [Font family](Module2/ex10.html)
+11. [Recap](Module2/ex11.html)
 
 ----------
 Module 3: More nice styling!
