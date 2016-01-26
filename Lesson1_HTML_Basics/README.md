@@ -12,15 +12,15 @@ Module 1: Introduction to HTML
 ----------
 Module 2: Body elements
 
-6. [Paragraphs and headings]
-7. [More about headings!]
-8. [Using every heading]
+6. [Paragraphs and headings](Module2/ex6.html)
+7. [More about headings!](Module2/ex7.html)
+8. [Using every heading](Module2/ex8.html)
 
 ----------
 Module 3: Adding images to your site
 
-9. [Mid-Lesson Breather]
-10. [You're going places]
-11. [Adding images]
-12. [Click that image]
-13. [Images and links]
+9. [Mid-Lesson Breather](Module3/ex9.html)
+10. [You're going places](Module3/ex10.html)
+11. [Adding images](Module3/ex11.html)
+12. [Click that image](Module3/ex12.html)
+13. [Images and links](Module3/ex13.html)
