@@ -22,8 +22,8 @@ Module 2: Styling the font!
 ----------
 Module 3: More nice styling!
 
-12. [Background color]()
-13. [Aligning the text]()
-14. [Strong words!]()
-15. [Emphasize words!]()
-16. [Summary]()
+12. [Background color](Module3/ex12.html)
+13. [Aligning the text](Module3/ex13.html)
+14. Strong words!
+15. Emphasize words!
+16. Summary
