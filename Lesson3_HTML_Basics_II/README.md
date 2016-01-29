@@ -24,6 +24,6 @@ Module 3: More nice styling!
 
 12. [Background color](Module3/ex12.html)
 13. [Aligning the text](Module3/ex13.html)
-14. Strong words!
-15. Emphasize words!
+14. [Strong words!](Module3/ex14.html)
+15. [Emphasize words!](Module3/ex15.html)
 16. Summary
