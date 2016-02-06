@@ -13,8 +13,8 @@ Module 1: Learning about tables
 Module 2: Better tables
 
 6. Head of the table
-7. Table Heads
-8. Naming your tables
+7. [Table Heads](Module2/ex7.html)
+8. [Naming your tables](Module2/ex8.html)
 9. Style that head
 10. Recap
 
