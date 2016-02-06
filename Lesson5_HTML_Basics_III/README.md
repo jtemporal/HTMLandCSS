@@ -1,4 +1,4 @@
-# Lesson 5 - HTML Basics III (... yep skipped lesson 4)
+# Lesson 5 - HTML Basics III (yep skipped lesson 4)
 
 ----------
 Module 1: Learning about tables
@@ -7,7 +7,7 @@ Module 1: Learning about tables
 2. What are tables?
 3. Rows of information
 4. [A single column](Module1/ex4.html)
-5. Adding a second column
+5. [Adding a second column](Module1/ex5.html)
 
 --------
 Module 2: Better tables
